@@ -1,0 +1,6 @@
+{
+  "ios": {
+    "NSCameraUsageDescription": "Permite aplicației să folosească camera pentru a fotografia problema din sesizare.",
+    "NSPhotoLibraryUsageDescription": "Permite aplicației să acceseze fotografiile pentru a le atașa la o sesizare."
+  }
+}
